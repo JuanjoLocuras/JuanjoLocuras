@@ -43,12 +43,16 @@ Este proyecto es una maqueta interactiva de mi sitio web personal super curradis
    Normalmente suelo jugar un poco de todo, hay un juego en especifico que no quiero mencionar, por el simple hecho de que me funa mas de la mitad de la clase, asi que solo dire los que mas he llegado a Jugar
    * Counter Strike 2
      ![image](https://github.com/user-attachments/assets/bd6e72c2-0244-446b-b505-d4f9a10d1d8a)
-
    * Ultrakill
+     ![image](https://github.com/user-attachments/assets/ee9a735d-2f86-4ba0-8845-c2328ab045cd)
    * Minecraft
+     ![image](https://github.com/user-attachments/assets/0bc10ee1-2337-4240-94dd-a48c59525ebd)
    * Pokemón (De cualquier tipo)
+     ![image](https://github.com/user-attachments/assets/ee929f98-4d0b-41e4-ba0b-cc30cdeb959f)
    * VR Chat
+     ![image](https://github.com/user-attachments/assets/09ab611e-b8d3-4602-abaf-1558c6725a7e)
    * Garry's Mod
+     ![image](https://github.com/user-attachments/assets/6241cb98-1ba6-4580-9ab2-1875203134f9)
 
 4. **Página de Contacto**:  
    Un formulario de contacto para que puedas pedirme ayuda si necesitas arreglar el wifi... o simplemente para charlar.
