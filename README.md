@@ -8,7 +8,7 @@ Además, tengo una afición un poco peculiar: ¡Algún día me gustaría arregla
 
 ## Descripción del Proyecto (Un poco random)
 
-Este proyecto es una maqueta interactiva de mi sitio web personal super curradisimo, supongo que hablare sobre mi rutina en el gimnasio o sobre los juegos que juego (Habia dicho que odio mi vida?)
+Este proyecto es una maqueta interactiva de mi sitio blog personal super curradisimo, supongo que hablare sobre mi rutina en el gimnasio o sobre los juegos que juego (Habia dicho que odio mi vida?)
 
 ### Lo principal
 
