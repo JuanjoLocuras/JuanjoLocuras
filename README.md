@@ -54,8 +54,6 @@ Este proyecto es una maqueta interactiva de mi sitio web personal super curradis
    * Garry's Mod
      ![image](https://github.com/user-attachments/assets/6241cb98-1ba6-4580-9ab2-1875203134f9)
 
-4. **Página de Contacto**:  
-   Un formulario de contacto para que puedas pedirme ayuda si necesitas arreglar el wifi... o simplemente para charlar.
 
 
 
